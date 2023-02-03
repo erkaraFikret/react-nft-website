@@ -1,0 +1,32 @@
+.trending-nfts {
+    padding: 108px 0px;
+    position: relative;
+}
+
+.nft-title {
+    font-size: 46px;
+    font-weight: 700;
+    padding: 24px;
+    margin-bottom: 36px;
+}
+
+.nft-bg {
+    height: 550px;
+    width: 550px;
+    background-color: var(--bg-blob);
+    filter: blur(160.58px);
+    position: absolute;
+    
+    left: 50%;
+    transform: translate(-50%);
+}
+.nft-btn{
+    margin-top: 36px;
+}
+
+.seemore-btn{
+    font-size: 14px;
+}
+
+
+
